@@ -1,24 +1,24 @@
 const greenhouseGases = [{
-        name: 'Fluorierte Treibhausgase',
-        percent: 11,
+        name: 'Fluorverbindungen u. a.',
+        percent: 2,
         color: 'rgb(244,203,62)',
         age: 'ca. 740 - 3.200 Jahre'
     },
     {
         name: 'Kohlenstoffdioxid',
-        percent: 66.1,
+        percent: 76,
         color: 'rgb(98,115,121)',
         age: 'ca. 1.000 Jahre'
     },
     {
         name: 'Lachgas',
-        percent: 6.4,
+        percent: 6,
         color: 'rgb(174,212,125)',
         age: 'ca. 121 Jahre'
     },
     {
         name: 'Methan',
-        percent: 16.4,
+        percent: 16,
         color: 'rgb(248,158,104)',
         age: 'ca. 12,4 Jahre'
     }
